@@ -17,7 +17,7 @@ I specialize in data analysis, machine learning, and data visualization, with a 
 
 ## 🔭 What I'm Currently Working On
 - 📈 Enhancing a fairness-aware algorithmic trading model  
-- 📊 Building interactive dashboards using Power BI  
+- 📊 Building interactive dashboards using Excel and Power BI  
 - 🧠 Improving machine learning models and evaluation techniques  
 
 ---
@@ -35,7 +35,6 @@ I specialize in data analysis, machine learning, and data visualization, with a 
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=postgresql)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange?logo=tableau)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-lightblue)
 
