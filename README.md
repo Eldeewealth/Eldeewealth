@@ -67,7 +67,7 @@ Built an AI-powered tool to help students validate sources, check journal credib
 ✅ Validates DOIs and verifies metadata accuracy  
 ✅ Formats Harvard references correctly  
 ✅ Supports academic integrity and research quality
-🔗 **[Preview & request access](https://www.linkedin.com/posts/amlovedayokoro_harvardreferencing-academicintegrity-aiforstudents-activity-7395129115915300865-pPpa)**
+🔗 [Preview & request access](https://www.linkedin.com/posts/amlovedayokoro_harvardreferencing-academicintegrity-aiforstudents-activity-7395129115915300865-pPpa)
 ---
 ### 📈 Fairness-Aware Algorithmic Trading
 Developed a machine learning model for S&P 500 trading with fairness constraints and explainability using SHAP. Includes backtesting and performance evaluation.  
